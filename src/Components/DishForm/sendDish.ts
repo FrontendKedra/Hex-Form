@@ -21,6 +21,8 @@ export const sendDish = async (values: DishFormValues) => {
 
     console.log(jsonResponse);
   } catch (error) {
-    alert(`An Error has occured`);
+    const errorMessage =
+      error instanceof Error ? error.message : "An unknown error occurred";
+    alert(`An error has occurred: ${errorMessage}`);
   }
 };
