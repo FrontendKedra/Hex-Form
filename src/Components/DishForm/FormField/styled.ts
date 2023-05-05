@@ -16,6 +16,7 @@ export const FieldContainer = styled.div`
 
 export const Label = styled.label`
   font-size: 18px;
+  font-weight: 500;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.medium}) {
     font-size: 14px;
@@ -28,6 +29,7 @@ export const Label = styled.label`
 
 export const Input = styled.input`
   font-size: 16px;
+  font-weight: 400;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.medium}) {
     font-size: 14px;
@@ -40,6 +42,7 @@ export const Input = styled.input`
 
 export const Select = styled.select`
   font-size: 16px;
+  font-weight: 400;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.medium}) {
     font-size: 14px;
@@ -57,6 +60,7 @@ export const Error = styled.span`
   align-items: center;
   font-size: 18px;
   margin: -8px 0;
+  font-weight: 500;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.medium}) {
     font-size: 14px;

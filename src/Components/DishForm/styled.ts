@@ -10,6 +10,7 @@ export const Container = styled.div`
 export const Title = styled.h1`
   font-size: 36px;
   margin-top: 0px;
+  font-weight: 700;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.medium}) {
     font-size: 26px;
@@ -66,6 +67,7 @@ export const Button = styled.button`
   cursor: pointer;
   transition: 0.3s;
   border-radius: 4px;
+  font-weight: 500;
 
   @media (max-width: ${({ theme }) => theme.breakpoints.medium}) {
     font-size: 14px;
