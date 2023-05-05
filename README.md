@@ -2,9 +2,11 @@
 
 ## Description
 
-A form component with ability to add a recipe to one of 3 dish types: Pizza Soup Sandwich.
-It allows user to submit a dish to an external api using POST method.
-It has an option to reset a form once atleast one field has been filled.
+ A form component with ability to add a recipe to one of 3 dish types: Pizza Soup Sandwich. </br>
+ 
+ It allows user to submit a dish to an external api using POST method. </br>
+ 
+ It has an option to reset a form once atleast one field has been filled.
 
 ## Preview
 
@@ -13,15 +15,22 @@ https://frontendkedra.github.io/Hex-Form/
 ## Setting up
 
 To correctly set up a project you must:
-### Clone the repository to the desired directory:
-You can do that using "git clone https://github.com/FrontendKedra/Hex-Form.git"
-### Run npm install command
-### Run npm start command
+- Clone the repository to the desired directory:
+You can do that using "git clone `https://github.com/FrontendKedra/Hex-Form.git`" 
+- Run npm install command
+- Run npm start command
 
 ## Node + npm versions
 
-Node: v16.17.0
-npm: 8.15.0
+- Node: v16.17.0
+- npm: 8.15.0
+
+## Tools
+
+- React-Final-Form
+- Typescript
+- Styled-components
+
 
 ## Getting Started with Create React App
 
