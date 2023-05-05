@@ -10,7 +10,7 @@ It has an option to reset a form once atleast one field has been filled.
 
 ## Completion time
 
-It took me about 12 hours, mainly because I had to learn React-Final-Form, a technology I hadn't worked with before.
+It took me about 12-14 hours, mainly because I had to learn React-Final-Form, a technology I hadn't worked with before.
 
 ## Setting up
 
