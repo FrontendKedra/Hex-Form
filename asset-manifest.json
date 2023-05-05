@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/Hex-Form/static/js/main.755a3c7d.js",
-    "static/js/787.df9b92a2.chunk.js": "/Hex-Form/static/js/787.df9b92a2.chunk.js",
+    "main.js": "/Hex-Form/static/js/main.586c4027.js",
+    "static/js/787.9a6e3348.chunk.js": "/Hex-Form/static/js/787.9a6e3348.chunk.js",
     "static/media/background.png": "/Hex-Form/static/media/background.f9c39d8b13e9eea833c0.png",
     "index.html": "/Hex-Form/index.html",
-    "main.755a3c7d.js.map": "/Hex-Form/static/js/main.755a3c7d.js.map",
-    "787.df9b92a2.chunk.js.map": "/Hex-Form/static/js/787.df9b92a2.chunk.js.map"
+    "main.586c4027.js.map": "/Hex-Form/static/js/main.586c4027.js.map",
+    "787.9a6e3348.chunk.js.map": "/Hex-Form/static/js/787.9a6e3348.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.755a3c7d.js"
+    "static/js/main.586c4027.js"
   ]
 }
