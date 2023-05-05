@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/hex-ocean/static/js/main.924ef04d.js",
+    "static/js/787.df9b92a2.chunk.js": "/hex-ocean/static/js/787.df9b92a2.chunk.js",
+    "static/media/background.png": "/hex-ocean/static/media/background.f9c39d8b13e9eea833c0.png",
+    "index.html": "/hex-ocean/index.html",
+    "main.924ef04d.js.map": "/hex-ocean/static/js/main.924ef04d.js.map",
+    "787.df9b92a2.chunk.js.map": "/hex-ocean/static/js/787.df9b92a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.924ef04d.js"
+  ]
+}
